@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 /*googleips 웹폰트 css 파일 불러오기*/
 @import url(https://fonts.googleapis.com/css?family=Galada|Nanum+Gothic|Nanum+Myeongjo);
 /*font-family: 'Nanum Gothic', sans-serif;
