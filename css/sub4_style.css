@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+#wrap{max-width: 1920px; margin: 0 auto; font-family: 'S-CoreDream-3Light'; min-width: 1200px; position: relative; /*height: 980px;*/}
+
+#header{font-family: 'S-CoreDream-3Light'; width: 100%; background-image:url('/img/main.png') no-repeat 0 0; height: 120px; position: relative; border-bottom: 1px solid #aaa; margin-bottom: 50px;}
+#header #logo img{width: 200px; height: 100px; margin-top: 10px; margin-left: 2%; float: left}
+#header #menu{float: right; margin-right: 2%; margin-top: 45px;width: 40%;}
+#header #menu li{float: left; font-size: 1.2rem; font-family: 'S-CoreDream-4Regular'; width: 25%; text-align: center;}
+#header #main_t{width: 50%; height: 300px; position: absolute; top: 30%; left: 20%; text-align: center; }
+
+.now a{font-family: 'S-CoreDream-9Black'}
+
+
+#sec1{width: 100%; }
+#list{width: calc(20%); /*background-color: antiquewhite;*/ float: left; position: fixed;}
+#list .list_web{padding: 50px 50px;}
+#list .list_web li{line-height: 3rem; color: #777;}
+.list_web li.on{font-weight: bold;}
+.list_web li.on a{color:#333;}
+.l_t{font-size: 1.5rem;font-family: 'S-CoreDream-9Black'; width: 100%; border-bottom: 1px solid #aaa; color:#333; margin-bottom: 20px;}
+
+#contents{width: calc(80% - 200px); /*background-color: gainsboro;*/ float: left; padding: 50px 100px; position: absolute; left: 20%;}
+#contents img{width: 100%}
+
+.con_tit{font-size: 2rem; font-family: 'S-CoreDream-9Black'; margin-bottom: 30px;}
+.con_exp{margin-bottom: 30px;}
+.con_hr{border: 1px solid #333;  margin-bottom: 20px;}
+
+
+
+.webs{width: 100%;}
+.webs li{width:calc(20% - 2px); float: left; text-align: center;  line-height: 3rem; margin-bottom: 20px; cursor: default; color: #777;}
+.webs li.on_w{background: #fff; cursor: default; color:#333; font-weight: bold; border:1px solid #333;}
+
+
+#two_d{width:100%;}
+#two_d li{float: left; width: 30%;margin-right: 3.3%}
+#two_d img{width:100%; margin-bottom: 20px;}
+.two_tit{width: 100%; text-align: right; margin-bottom: 50px;}
+
+#vd_list{width: 100%;}
+#list3 .vd_tit{float: left;  width: calc(50% - 50px); margin-top: 50px;}
+#list3 .vd_sub{float: left; line-height: 2rem; width: calc(50% - 50px); margin-top: 50px;}
+#list3 video{width:50%; float: left; margin-right: 50px; margin-bottom: 50px;}
+
+#list4 li{float: left; width: 50%; margin-top: 50px;}
+#list4 audio{float: left; width: 90%; margin-bottom: 50px; margin: 0 5%;}
+#list4 .con_sub p{float: left; width: 90%; height: 50px; margin: 0 5%;margin-top: 30px; text-align: center;}
