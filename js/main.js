@@ -136,6 +136,20 @@ $(function(){
         });
     });
     
+    $('#p_wes11').click(function(){
+        $('#pk_11').fadeIn();
+        $('.close').click(function(){
+            $('#pk_11').fadeOut();
+        });
+    });
+    
+    $('#p_wes12').click(function(){
+        $('#pk_12').fadeIn();
+        $('.close').click(function(){
+            $('#pk_12').fadeOut();
+        });
+    });
+    
     
     $('#s_wes1').click(function(){
         $('#s_1').fadeIn();
@@ -190,6 +204,13 @@ $(function(){
         $('#s_8').fadeIn();
         $('.close').click(function(){
             $('#s_8').fadeOut();
+        });
+    });
+    
+    $('#s_wes9').click(function(){
+        $('#s_9').fadeIn();
+        $('.close').click(function(){
+            $('#s_9').fadeOut();
         });
     });
     

@@ -32,7 +32,7 @@ html{
 
 
 .webs{width: 100%;}
-.webs li{width:calc(20% - 2px); float: left; text-align: center;  line-height: 3rem; margin-bottom: 20px; cursor: default; color: #777;}
+.webs li{width:calc(20% - 2px); float: left; text-align: center;  line-height: 3rem; margin-bottom: 20px; cursor: default; color: #777; font-size: 0.9rem}
 .webs li.on_w{background: #fff; cursor: default; color:#333; font-weight: bold; border:1px solid #333;}
 
 

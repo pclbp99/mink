@@ -59,6 +59,9 @@ html{
 #pthum8{width:100%; height:250px; background:url(../job/web/westin/s_5.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #pthum9{width:100%; height:250px; background:url(../job/web/westin/golf.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #pthum10{width:100%; height:250px; background:url(../job/web/westin/s_3.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
+#pthum11{width:100%; height:250px; background:url(../job/web/westin/s_6.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
+#pthum12{width:100%; height:250px; background:url(../job/web/westin/s_7.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
+
 #sthum1{width:100%; height:250px; background:url(../job/web/westin/summer_sns1.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #sthum2{width:100%; height:250px; background:url(../job/web/westin/sparkling_sns1.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #sthum3{width:100%; height:250px; background:url(../job/web/westin/hotdeal_sns1.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
@@ -67,7 +70,7 @@ html{
 #sthum6{width:100%; height:250px; background:url(../job/web/westin/email.gif) no-repeat; background-size: cover; margin-bottom: 40px;}
 #sthum7{width:100%; height:250px; background:url(../job/web/westin/wedding.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #sthum8{width:100%; height:250px; background:url(../job/web/westin/pdp.png) no-repeat; background-size: cover; margin-bottom: 40px;}
-
+#sthum9{width:100%; height:250px; background:url(../job/web/westin/banner2.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 
 #ev_1{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
@@ -100,6 +103,10 @@ html{
 
 #pk_10{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
+#pk_11{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
+
+#pk_12{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
+
 #s_1{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 #s_1 img{margin-bottom: 20px;}
 
@@ -115,12 +122,15 @@ html{
 #s_5{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
 #s_6{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
-#s_6 img{width:796px; margin-top:30%;}
+#s_6 img{width:796px; margin-top:20%;}
 
 #s_7{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
 #s_8{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 #s_8 img{width: 796px;}
+
+#s_9{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
+#s_9 img{width:600px; margin-top:20%; margin-left: 20%}
 
 #wes_pop .pop{position: absolute; top:15%; left: calc(50% - 448px); margin-bottom: 5%;}
 
