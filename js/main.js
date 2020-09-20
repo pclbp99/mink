@@ -150,6 +150,19 @@ $(function(){
         });
     });
     
+    $('#p_wes13').click(function(){
+        $('#pk_13').fadeIn();
+        $('.close').click(function(){
+            $('#pk_13').fadeOut();
+        });
+    });
+    $('#p_wes14').click(function(){
+        $('#pk_14').fadeIn();
+        $('.close').click(function(){
+            $('#pk_14').fadeOut();
+        });
+    });
+    
     
     $('#s_wes1').click(function(){
         $('#s_1').fadeIn();

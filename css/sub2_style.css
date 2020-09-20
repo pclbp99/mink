@@ -61,6 +61,8 @@ html{
 #pthum10{width:100%; height:250px; background:url(../job/web/westin/s_3.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #pthum11{width:100%; height:250px; background:url(../job/web/westin/s_6.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #pthum12{width:100%; height:250px; background:url(../job/web/westin/s_7.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
+#pthum13{width:100%; height:250px; background:url(../job/web/westin/i_pack.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
+#pthum14{width:100%; height:250px; background:url(../job/web/westin/i_pack2.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 
 #sthum1{width:100%; height:250px; background:url(../job/web/westin/summer_sns1.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
 #sthum2{width:100%; height:250px; background:url(../job/web/westin/sparkling_sns1.jpg) no-repeat; background-size: cover; margin-bottom: 40px;}
@@ -106,6 +108,10 @@ html{
 #pk_11{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
 #pk_12{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
+
+#pk_13{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
+
+#pk_14{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 
 #s_1{width:100%; height: 100%; position: fixed; top:0; left: 0; background:rgba(0,0,0,0.8); z-index: 999999999999;  overflow-y: scroll; display: none;}
 #s_1 img{margin-bottom: 20px;}
